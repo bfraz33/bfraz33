@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon!
 - 👀 I’m interested in anything new up and coming and projects that will challenge me.
-- 🌱 I’m currently learning QL and Python. 
+- 🌱 I’m currently learning SQL and Python. 
 - 💞️ I’m looking to collaborate on anything im knowledgable in at the moment.
 - 📫 How to reach me bfrazier756@gmail.com
 
