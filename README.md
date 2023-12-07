@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything new up and coming and projects that will challenge me.
 - 🌱 I’m currently learning SQL and Python. 
 - 💞️ I’m looking to collaborate on anything im knowledgable in at the moment.
-- 📫 How to reach me bfrazier756@gmail.com
+- 📫 How to reach me Twitter DM @Bfrviz
 
 <!---
 bfraz33/bfraz33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
