@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon!
 - 👀 I’m interested in anything new up and coming and projects that will challenge me.
-- 🌱 I’m currently building a live sports data application that consists of AWS,Python and PosgreSQL
+- 🌱 I’m currently building a live sports data application that consists of AWS, and python, while also diving into contributing to open source projects.
 - 💞️ I’m looking to collaborate on anything im knowledgable in at the moment.
 - 📫 How to reach me Twitter DM @Bfrviz
 
